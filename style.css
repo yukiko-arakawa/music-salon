@@ -169,3 +169,13 @@ header{
   margin-top: 15px;
   margin-bottom: 20px;
 }
+footer{
+  text-align: center;
+}
+footer a{
+  text-decoration: none;
+  color: rgb(17, 167, 226);
+}
+footer a:hover{
+  opacity: 0.7;
+}
